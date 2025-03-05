@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Al3xt0r</h1>
-<h2 align="center">A.K.A N4sty</h1>
+<p align="center">A.K.A N4sty</p>
 <h3 align="center">Cybersec enjoyer.</h3>
 
 <h3 align="center">Languages & Tools:</h3>
