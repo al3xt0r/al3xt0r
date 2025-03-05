@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![image]({https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white})
+  <a>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </a>
 </p>
