@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Al3xt0r</h1>
 <h3 align="center">Cybersec enjoyer.</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 <p align="center"> 
   <a>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Java-000000?logo=OpenJDK"/>
   </a>
 </p>
