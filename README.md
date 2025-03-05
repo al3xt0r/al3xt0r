@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **al3xt0r/al3xt0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
