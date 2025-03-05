@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Al3xt0r</h1>
 <p align="center">A.K.A N4sty</p>
+<p>
+  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp6djYyZWFhem1iazR0czZ2MHl5eWo5ZDdrMnZpeDM0dWRncmZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elDcDwXFTGqyW83TwH/giphy.gif" height="150px" width="150px"/>
+</p>
 <h3 align="center">Cybersec enjoyer.</h3>
 
 <h3 align="center">Languages & Tools:</h3>
